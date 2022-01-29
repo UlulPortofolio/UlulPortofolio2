@@ -1,0 +1,19 @@
+Nama: Muhammad Ulul Albab
+NIM:20TF056
+dibuat dengan:
+- HTML
+- CSS
+- Boostrap
+- JS
+- PHP
+- Adobe XD (Desain)
+- Creativity
+- kesabaran
+
+NB:
+- Website dapat didownload melalui link https://drive.google.com/file/d/1eM7-QPO6CDTGpxso5Z0tmHnPcNOHZqxz/view?usp=sharing
+- web tidak dpat di upload di elearning dikarenakan ukuran nya 1GB
+- Harap meng instal font sebelum membuka web,karna font tersebut yang digunakan pada web.
+- mohon maaf bila terdapat error
+
+Terimakasih
